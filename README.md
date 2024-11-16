@@ -20,8 +20,8 @@ Feel free to use it for your CVPR supplementary material to meet the required ci
 
 # Examples
 <div style="display: flex; align-items: flex-start;">
-  <img src="body.png" alt="Image 1" style="height: 150px; margin-right: 10px;">
-  <img src="refs.png" alt="Image 2" style="height: 150px;">
+  <img src="body.png" alt="Image 1" style="height: 200px; margin-right: 10px;">
+  <img src="refs.png" alt="Image 2" style="height: 200px;">
 </div>
 
 # About me
