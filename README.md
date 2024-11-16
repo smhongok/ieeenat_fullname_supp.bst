@@ -7,8 +7,8 @@ The file is based on `ieeenat_fullname.bst` and is tailored for supplementary ma
 Feel free to use it for your CVPR supplementary material to meet the required citation format.
 
 # How to use
-1. Download [ieeenat_fullname_supp.bst](ieeenat_fullname_supp.bst)
-2. add the following to your .tex file:
+1. Download [ieeenat_fullname_supp.bst](ieeenat_fullname_supp.bst) and upload to overleaf.
+2. Add the following to your `.tex` file for the supplementary material:
 ```
 {
     \small
@@ -16,7 +16,6 @@ Feel free to use it for your CVPR supplementary material to meet the required ci
     \bibliography{refs}
 }
 ```
-
 
 # Examples
 <div style="display: flex; align-items: flex-start;">
