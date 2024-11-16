@@ -1,4 +1,5 @@
 # CVPR Supplementary Material Citation Format (`.bst` File)
+Are you having trouble formatting citations for your CVPR supplementary material?
 
 This repository provides a `.bst` [file](ieeenat_fullname_supp.bst) that modifies the citation format from `[1]` to `[S1]`. 
 
